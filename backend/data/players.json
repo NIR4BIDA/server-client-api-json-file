@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "name": "roger federer",
+    "incomes": 8000000,
+    "age": 35,
+    "tournaments": 50
+  },
+  {
+    "id": 2,
+    "name": "rafael nadal",
+    "incomes": 5000000,
+    "age": 33,
+    "tournaments": 40
+  },
+  {
+    "id": 1,
+    "name": "novak djokovich",
+    "incomes": 3000000,
+    "age": 30,
+    "tournaments": 30
+  }
+]
